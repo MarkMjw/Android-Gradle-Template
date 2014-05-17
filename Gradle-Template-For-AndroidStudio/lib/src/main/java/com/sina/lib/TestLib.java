@@ -3,7 +3,7 @@ package com.sina.lib;
 /**
  * Class TestLib.
  *
- * @author MarkMjw
+ * @author markmjw
  * @date 2014-01-22
  */
 public class TestLib {
